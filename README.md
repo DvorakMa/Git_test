@@ -4,3 +4,5 @@ First commit
 Second commit
 třetí commit
 vytváříme konflikt 
+tady bude konflikt
+vyřešeno
