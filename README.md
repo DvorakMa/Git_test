@@ -3,3 +3,4 @@ Repo for my learning course project
 First commit
 Second commit
 třetí commit
+tady bude konflikt
